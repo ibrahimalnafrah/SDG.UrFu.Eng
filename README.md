@@ -92,7 +92,7 @@ Documents often align with multiple SDGs. The classifier provides scores for all
 - Feature requests and suggestions are welcome
 
 ### Acknowledgments
-Special thanks to colleagues Dr. Zhanna Belyaeva and Dr. Yana Lopatkova from the ESG project team for their valuable insights and support during the project's conceptual phase. This project was developed as part of the Ural Federal University Priority-2030 program.
+This project was developed as part of the Ural Federal University Priority-2030 program.
 
 ## 📄 License & Citation
 
